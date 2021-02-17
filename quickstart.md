@@ -4,7 +4,7 @@
 
 This is a deliberately brief [TL;DR](https://www.urbandictionary.com/define.php?term=tl%3Bdr) style overview of the steps you might want to take to explore the contents of this repository. It assumes that you're wanting to **use the SAP Business Application Studio (App Studio)** as [your development environment](README.md#a-development-environment).
 
-We're working through these steps on the Hands-on SAP Dev [show](https://blogs.sap.com/2020/11/09/an-overview-of-sap-developers-video-content/#shows), in the series [Getting the most out of the SAP TechEd Developer Keynote repository](https://www.youtube.com/playlist?list=PL6RpkC85SLQCBncEWbkHTLz7ykB9C7yof). Check out the 📺 video links against each of the steps to see directly related content from those episodes.
+We're working through these steps on the Hands-on SAP Dev [show](https://blogs.sap.com/2020/11/09/an-overview-of-sap-developers-video-content/#shows), in the series [Getting the most out of the SAP TechEd Developer Keynote repository](https://www.youtube.com/playlist?list=PL6RpkC85SLQCBncEWbkHTLz7ykB9C7yof). Check out the 📺 video links against each of the steps to see more directly related content from those episodes.
 
 |Step|Description|Video|
 |-|-|-|
